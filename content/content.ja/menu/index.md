@@ -11,7 +11,9 @@ headless: true
   - [会議を開始する]({{< relref "/docs/conversation/start-conversation" >}})
   - [会議にスピーカーとして参加する]({{< relref "/docs/conversation/join-conversation-speaker" >}})
   - [会議にビューワーとして参加する]({{< relref "/docs/conversation/join-conversation-viewer" >}})
-    <br />
+  - [会議にビューワー（スクリーン投影 字幕モード）として参加する]({{< relref "/docs/conversation/join-conversation-screen-subtitle" >}})
+    <!-- - [会議にビューワー（スクリーン投影 翻訳モード）として参加する]({{< relref "/docs/conversation/join-conversation-screen-subtitle" >}}) -->
+      <br />
 
 <!-- - [**ユースケース**]({{< relref "/docs/conversation" >}})
 
