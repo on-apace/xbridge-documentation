@@ -15,13 +15,17 @@ headless: true
   - [会議にビューワー（スクリーン投影 翻訳モード）として参加する]({{< relref "/docs/conversation/join-conversation-screen-translation" >}})
     <br />
 
-<!-- - [**ユースケース**]({{< relref "/docs/conversation" >}})
+- [**ユースケース**]({{< relref "/docs/usecase" >}})
 
-  - [ミーティングで通訳とプレゼンテーション]({{< relref "/docs/conversation/create-conversation" >}})
-  - [会議で通訳結果を投影]({{< relref "/docs/conversation/start-conversation" >}})
-    <br /> -->
+  - [カンファレンスで配信ソフト OBS を使って投影する]({{< relref "/docs/usecase/conference-screen" >}})
+    <!-- - [会議で通訳結果を投影]({{< relref "/docs/conversation/start-conversation" >}}) -->
+      <br />
 
 - [**アカウント設定**]({{< relref "/docs/account" >}})
   <!-- - [アカウント作成]({{< relref "/docs/account/create-account" >}}) -->
+
   - [多要素認証設定]({{< relref "/docs/account/multi-factor-authentication" >}})
   - [支払方法設定]({{< relref "/docs/account/payment" >}})
+
+- [**その他**]({{< relref "/docs/other" >}})
+  - [ホストの PC の基本設定]({{< relref "/docs/other/pc-basic-configuration" >}})
