@@ -13,8 +13,9 @@
 {{< figure src="images/started-conversation.png" class="center" >}}
 
 {{< hint warning >}}
-**通訳開始には 10 秒程度かかることがあります**  
+**通訳開始には 10-60 秒程度かかることがあります**  
 会議開始後、数秒間は画面上部に`Conversation is closed`など赤字のエラーが表示され通訳のシステムが準備できるまで待ちます。
+会議のモデルに「OpenAI Whisper」を選択している場合、開始できる状態なるまで最大 60 秒かかる場合があります。
 {{< /hint >}}
 
 スピーカーは別の端末から参加し、会話を開始してください。

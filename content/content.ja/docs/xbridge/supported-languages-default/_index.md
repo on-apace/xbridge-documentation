@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# サポート言語一覧
+# 対応言語一覧（デフォルトモデル）
 
 English (United States)</br>
 Japanese (Japan)</br>
