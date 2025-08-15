@@ -49,3 +49,18 @@ In `System` → `Power & battery` under the `Power` section, configure the follo
 4. `Put my device to sleep after(when it's on battery)`: Never
 
 {{< figure src="images/windows-sleep-configuration.png" class="center" >}}
+
+## 4. Install Google Chrome
+
+xBridge recommends using the Google Chrome browser for optimal performance.
+If Google Chrome is not installed, please follow these steps to install it:
+
+1. Visit the [Google Chrome official website](https://www.google.com/chrome/)
+2. Click the "Download Chrome" button
+3. Run the downloaded installer and follow the on-screen instructions to complete the installation
+4. After installation is complete, launch Google Chrome and use xBridge
+
+{{< hint info >}}
+**About Supported Browser**  
+xBridge supports only Google Chrome.
+{{< /hint >}}
