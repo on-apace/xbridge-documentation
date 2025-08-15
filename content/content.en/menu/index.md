@@ -18,6 +18,7 @@ headless: true
 
 - [**Use Cases**]({{< relref "/docs/usecase" >}})
 
+  - [Projecting Interpretation Results to a Sub-screen]({{< relref "/docs/usecase/sub-screen-projection" >}})
   - [Projecting at Conferences Using OBS Streaming Software]({{< relref "/docs/usecase/conference-screen" >}})
     <!-- - [会議で通訳結果を投影]({{< relref "/docs/conversation/start-conversation" >}}) -->
       <br />

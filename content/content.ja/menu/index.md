@@ -18,6 +18,7 @@ headless: true
 
 - [**ユースケース**]({{< relref "/docs/usecase" >}})
 
+  - [サブスクリーンに通訳結果を投影する]({{< relref "/docs/usecase/sub-screen-projection" >}})
   - [カンファレンスで配信ソフト OBS を使って投影する]({{< relref "/docs/usecase/conference-screen" >}})
     <!-- - [会議で通訳結果を投影]({{< relref "/docs/conversation/start-conversation" >}}) -->
       <br />
