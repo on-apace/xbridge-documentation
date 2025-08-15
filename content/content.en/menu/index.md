@@ -2,21 +2,31 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
-<br />
+- [**xBridge Overview**]({{< relref "/docs/xbridge" >}})
+- [Supported Languages List (OpenAI Whisper Model)]({{< relref "/docs/xbridge/supported-languages-whisper" >}})
+- [Supported Languages List (Default Model)]({{< relref "/docs/xbridge/supported-languages-default" >}})
+  <br />
+- [**How to Use Conference Interpretation**]({{< relref "/docs/conversation" >}})
 
-- **Shortcodes**
-- [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
-- [Columns]({{< relref "/docs/shortcodes/columns" >}})
-- [Expand]({{< relref "/docs/shortcodes/expand" >}})
-- [Hints]({{< relref "/docs/shortcodes/hints" >}})
-- [KaTeX]({{< relref "/docs/shortcodes/katex" >}})
-- [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
-- [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
-<br />
+  - [Create a Meeting]({{< relref "/docs/conversation/create-conversation" >}})
+  - [Start a Meeting]({{< relref "/docs/conversation/start-conversation" >}})
+  - [Join Meeting as Speaker]({{< relref "/docs/conversation/join-conversation-speaker" >}})
+  - [Join Meeting as Viewer]({{< relref "/docs/conversation/join-conversation-viewer" >}})
+  - [Join Meeting as Viewer (Screen Projection Subtitle Mode)]({{< relref "/docs/conversation/join-conversation-screen-subtitle" >}})
+  - [Join Meeting as Viewer (Screen Projection Translation Mode)]({{< relref "/docs/conversation/join-conversation-screen-translation" >}})
+    <br />
+
+- [**Use Cases**]({{< relref "/docs/usecase" >}})
+
+  - [Projecting at Conferences Using OBS Streaming Software]({{< relref "/docs/usecase/conference-screen" >}})
+    <!-- - [会議で通訳結果を投影]({{< relref "/docs/conversation/start-conversation" >}}) -->
+      <br />
+
+- [**Account Settings**]({{< relref "/docs/account" >}})
+  <!-- - [アカウント作成]({{< relref "/docs/account/create-account" >}}) -->
+
+  - [Multi-Factor Authentication Setup]({{< relref "/docs/account/multi-factor-authentication" >}})
+  - [Payment Method Setup]({{< relref "/docs/account/payment" >}})
+
+- [**Other**]({{< relref "/docs/other" >}})
+  - [Host PC Basic Configuration]({{< relref "/docs/other/pc-basic-configuration" >}})
