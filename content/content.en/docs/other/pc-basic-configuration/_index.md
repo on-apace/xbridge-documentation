@@ -43,9 +43,9 @@ In `System Settings` → `Lock Screen`, configure the following settings:
 
 In `System` → `Power & battery` under the `Power` section, configure the following settings:
 
-1. `Turn off my screen after this amount of time on battery power`: Never
-2. `Turn off my screen after this amount of time when plugged in`: Never
-3. `Put my device to sleep after this amount of time on battery power`: Never
-4. `Put my device to sleep after this amount of time when plugged in`: Never
+1. `Turn off my screen after(when plugged in)`: Never
+2. `Put my device to sleep after(when plugged in))`: Never
+3. `Turn off my screen after(when it's on battery)`: Never
+4. `Put my device to sleep after(when it's on battery)`: Never
 
 {{< figure src="images/windows-sleep-configuration.png" class="center" >}}
