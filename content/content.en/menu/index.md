@@ -3,7 +3,7 @@ headless: true
 ---
 
 - [**xBridge Overview**]({{< relref "/docs/xbridge" >}})
-- [Supported Languages List (OpenAI Whisper Model)]({{< relref "/docs/xbridge/supported-languages-whisper" >}})
+- [Supported Languages List (Faster Whisper Model)]({{< relref "/docs/xbridge/supported-languages-whisper" >}})
 - [Supported Languages List (Default Model)]({{< relref "/docs/xbridge/supported-languages-default" >}})
   <br />
 - [**How to Use Conference Interpretation**]({{< relref "/docs/conversation" >}})

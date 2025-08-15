@@ -3,7 +3,7 @@ headless: true
 ---
 
 - [**xBridge 概要**]({{< relref "/docs/xbridge" >}})
-- [対応言語一覧（OpenAI Whisper モデル）]({{< relref "/docs/xbridge/supported-languages-whisper" >}})
+- [対応言語一覧（Faster Whisper モデル）]({{< relref "/docs/xbridge/supported-languages-whisper" >}})
 - [対応言語一覧（汎用モデル）]({{< relref "/docs/xbridge/supported-languages-default" >}})
   <br />
 - [**会議通訳の利用方法**]({{< relref "/docs/conversation" >}})

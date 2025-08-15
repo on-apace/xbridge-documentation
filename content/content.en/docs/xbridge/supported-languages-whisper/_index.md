@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# Supported Languages List (OpenAI Whisper Model)
+# Supported Languages List (Faster Whisper Model)
 
 English</br>
 Chinese</br>
