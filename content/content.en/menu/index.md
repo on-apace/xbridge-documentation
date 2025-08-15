@@ -31,3 +31,7 @@ headless: true
 
 - [**Other**]({{< relref "/docs/other" >}})
   - [Host PC Basic Configuration]({{< relref "/docs/other/pc-basic-configuration" >}})
+
+- [**Links**](#)
+  - <a href="https://xbridge.on-apace.com/en" target="_blank">Homepage</a>
+  - <a href="https://console.xbridge.on-apace.com/#/registration/login" target="_blank">Service Site</a>

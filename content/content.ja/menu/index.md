@@ -31,3 +31,7 @@ headless: true
 
 - [**その他**]({{< relref "/docs/other" >}})
   - [ホストの PC の基本設定]({{< relref "/docs/other/pc-basic-configuration" >}})
+
+- [**リンク集**](#)
+  - <a href="https://xbridge.on-apace.com/" target="_blank">ホームページ</a>
+  - <a href="https://console.xbridge.on-apace.com/#/registration/login" target="_blank">サービスサイト</a>
