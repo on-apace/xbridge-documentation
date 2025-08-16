@@ -60,3 +60,5 @@ Please refer to "[Join Meeting as Viewer (Screen Projection Translation Mode)](.
 ## 4. Distribute Links to Meeting Participants
 
 From the meeting details page displayed after creating the meeting, distribute the "Listener Link & QR" for participants.
+
+Please refer to "[Join Meeting as Viewer](../../conversation/join-conversation-viewer)" for detailed procedures.
