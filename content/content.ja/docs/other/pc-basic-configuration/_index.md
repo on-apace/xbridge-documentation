@@ -49,3 +49,18 @@ PC のスリープやスクリーンセーバーなどに機能により、予�
 4.  `電源接続時に、次の時間が経過したあとにでデバイスをスリープ状態にする`：なし
 
 {{< figure src="images/windows-sleep-configuration.png" class="center" >}}
+
+## 4. Google Chrome のインストール
+
+xBridge は Google Chrome ブラウザでの動作を推奨しています。
+Google Chrome がインストールされていない場合は、以下の手順でインストールしてください。
+
+1. [Google Chrome 公式サイト](https://www.google.com/chrome/)にアクセスします
+2. 「Chrome をダウンロード」ボタンをクリックします
+3. ダウンロードしたインストーラーを実行し、画面の指示に従ってインストールを完了させます
+4. インストール完了後、Google Chrome を起動して xBridge をご利用ください
+
+{{< hint info >}}
+**推奨ブラウザについて**  
+xBridge は Google Chrome のみサポートしております。
+{{< /hint >}}

@@ -31,10 +31,10 @@ defaultContentLanguageInSubdir = true
   weight = 1
   title = 'xBridge'
 
-# [languages.en]
-#   languageName = 'English'
-#   contentDir = 'content/content.en'
-#   weight = 2
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content/content.en'
+  weight = 2
 
 
 [menu]
