@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# 対応言語一覧（OpenAI Whisper モデル）
+# 対応言語一覧（Faster Whisper モデル）
 
 English</br>
 Chinese</br>
