@@ -47,7 +47,33 @@ You can configure detailed display settings such as background color and text co
 
 ## Display Subtitles
 
-## Display Subtitles in Picture-in-Picture Mode
+There are 3 methods for displaying subtitles:
+
+1. **Display Interpretation Results in Full Screen**
+2. **Display Subtitles in Picture-in-Picture Mode**
+3. **Display Subtitles with Streaming Software**
+
+### Display Interpretation Results in Full Screen
+
+You can display interpretation results across the entire screen using your browser's full-screen mode.
+This method is ideal when projecting subtitles onto projectors or sub-screens.
+
+1. Enable full-screen mode in your browser on the subtitle display screen
+
+Click full-screen mode to display in full screen.
+
+{{< figure src="images/full-screen.png" class="center" >}}
+
+2. The interpretation results will be displayed across the entire screen
+
+3. To exit full-screen mode, press the same keys again or press the `Esc` key
+
+{{< hint info >}}
+**Benefits of Full Screen Mode**  
+In full-screen mode, browser navigation bars and other UI elements are hidden, displaying only the subtitles, enabling clear projection that is easy for participants to see.
+{{< /hint >}}
+
+### Display Subtitles in Picture-in-Picture Mode
 
 By selecting `Picture-in-Picture Mode` from the menu, you can display the subtitle window in picture-in-picture mode.
 You can overlay it on Microsoft PowerPoint slideshows or any browser.
@@ -59,7 +85,7 @@ You can overlay it on Microsoft PowerPoint slideshows or any browser.
 For Mac PC users, applications that you project together such as Microsoft PowerPoint need to use the main [workspace](https://support.apple.com/ja-jp/guide/mac-help/mh14112/mac).
 {{< /hint >}}
 
-## Display Subtitles with Streaming Software
+### Display Subtitles with Streaming Software
 
 You can display subtitles with streaming software such as OBS.
 Get the shared link (full-screen mode), open it as a window, and overlay it with other projection screens.
